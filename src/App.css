@@ -1,0 +1,11 @@
+.product-img {
+    height: 250px;
+    width: 250px;
+    color: #64ed6b
+}
+
+button {
+    margin: 60px;
+    height: 60px;
+    width: 200px;
+}
